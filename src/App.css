@@ -1,0 +1,65 @@
+body {
+  
+  background: -webkit-linear-gradient(
+    to right,
+    #141414,
+    #614951
+  );
+  background: linear-gradient(
+    to right,
+    #141414,
+    #c57c93
+  ); 
+  color: #ffffffa6;
+  font-family: "Roboto", sans-serif;
+}
+
+.App {
+  text-align: center;
+}
+
+.Tab{
+ text-decoration: none;
+ list-style: none;
+ font-weight: 900;
+ background-color: -webkit-linear-gradient(
+  to right,
+  #4d4d50,
+  #c33764
+);
+background: linear-gradient(
+  to right,
+  #4d4d50,
+  #c33764
+); 
+color: rgb(201, 193, 193);
+}
+
+.Inp{
+  background-color: rgb(240, 140, 190);
+  color: rgb(248, 244, 244);
+  border-top: none;
+  border-bottom: none;
+  margin-top: 20px;
+  padding: 4px ;
+  padding-right: 200px;
+}
+
+.Text{
+  color: rgb(207, 112, 168);
+}
+
+button{
+  background-color: rgb(158, 88, 129);
+  border: none ;
+  height: 30px;
+  width: 100px;
+  border-radius: 16px;
+  color: rgb(189, 185, 185);
+}
+
+.btn{
+  border-radius: 16px;
+  background: hotpink;
+}
+
